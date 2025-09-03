@@ -11,6 +11,7 @@
 ### Jupyter Notebooks
 ### Python Scripts
 ### Lab Submissions
+[Lab 1](https://github.com/bwbawden/IA-340/blob/a70eccd2fecab1870a0f421ee8205b0203d67e91/lab1.ipynb)
 ### Project Documentation
 
 ## Contact Information
