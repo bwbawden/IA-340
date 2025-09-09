@@ -12,6 +12,7 @@
 ### Python Scripts
 ### Lab Submissions
 [Lab 1](https://github.com/bwbawden/IA-340/blob/a70eccd2fecab1870a0f421ee8205b0203d67e91/lab1.ipynb)
+[Lab 2](https://github.com/bwbawden/IA-340/blob/63c963fb37c6f54592dd993993f31ba1703ba746/Lab_2.0.ipynb)
 ### Project Documentation
 
 ## Contact Information
