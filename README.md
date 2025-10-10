@@ -14,6 +14,7 @@
 [Lab 1](https://github.com/bwbawden/IA-340/blob/a70eccd2fecab1870a0f421ee8205b0203d67e91/lab1.ipynb)
 [Lab 2](https://github.com/bwbawden/IA-340/blob/63c963fb37c6f54592dd993993f31ba1703ba746/Lab_2.0.ipynb)
 [Lab 4](https://github.com/bwbawden/IA-340/blob/56ecc1feb197d63f6d2239f85be1eb463d84bdc7/Collect_Census_Data.ipynb)
+[Lab 6](https://github.com/bwbawden/IA-340/blob/7d3121e9acb4b0ed1ff02fe70695bdb857b8518a/lab6%20Bawden.ipynb)
 ### Project Documentation
 
 ## Contact Information
