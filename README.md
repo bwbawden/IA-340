@@ -9,6 +9,7 @@
 
 ## Contents
 ### Jupyter Notebooks
+[Notebook Mini-Project](https://github.com/bwbawden/IA-340/blob/7bb388ac1b594d2c1b3689d9cf27f7065f0b188c/Notebook.ipynb)
 ### Python Scripts
 ### Lab Submissions
 [Lab 1](https://github.com/bwbawden/IA-340/blob/a70eccd2fecab1870a0f421ee8205b0203d67e91/lab1.ipynb)
